@@ -1,0 +1,24 @@
+{
+  "name": "gitgruntprojekt",
+  "version": "1.0.0",
+  "description": "pierwsze gity z gruntem",
+  "main": "ok",
+  "scripts": {
+    "test": "ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ok"
+  },
+  "keywords": [
+    "ok"
+  ],
+  "author": "ja",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
