@@ -37,7 +37,7 @@ li > a:hover {
 }	
 .gallery img {
 	width: 400px;
-	height: 400px;
+	height: 350px;
 	flex-wrap: wrap;
 	object-fit: cover;
 	justify-content: center;
